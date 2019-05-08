@@ -1,3 +1,3 @@
 # Cruise-Control-Project
 Cruise Control Project
-To do list: Finish the description of the projects and all the README files in the subfolders.
+This project is comprised of the hardware architecture design and the software application.
